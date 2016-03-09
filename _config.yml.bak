@@ -71,6 +71,7 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/wwei25/wwei25.github.io.git
+  branch: gh-pages
  
 
 
